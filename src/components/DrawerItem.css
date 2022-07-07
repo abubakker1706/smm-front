@@ -1,0 +1,16 @@
+
+.container{
+                         background:white ;
+                         width: 15%;
+                         height:100vh;
+                         border: 2px solid transparent;
+                        
+                      
+
+}
+h3{
+                         color: red;
+                         margin-top:3rem;
+                         font-size: 12px;
+                        
+}

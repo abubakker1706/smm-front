@@ -1,0 +1,24 @@
+.signup{
+                          display:flex;
+                         flex-direction: column;
+                         gap:8px;
+                         width:350px;
+                         height:min-content; 
+                        
+}
+.cards{
+                    
+                         display: flex;
+                         justify-content: center;
+                         width:30%;
+                         margin:0 auto;
+                         position:absolute;
+                         top:20%;
+                         left: 35%;
+                         -ms-transform: translateY(-50%);
+                         transform: translateY(-50%,-50%);
+                        
+                       
+                        
+
+}
